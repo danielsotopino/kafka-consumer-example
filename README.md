@@ -56,4 +56,4 @@ El consumer se conectará automáticamente y empezará a consumir mensajes del t
 ## Notas
 
 - El consumer está configurado para leer desde el inicio del topic (`fromBeginning: true`)
-- Utiliza autenticación SASL/PLAIN sobre SSL# kafka-consumer-example
+- Utiliza autenticación SASL/PLAIN sobre SSL
